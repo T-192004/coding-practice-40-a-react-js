@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.home-container {
+  height: 90vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-icon {
+  width: 60%;
+  height: 80%;
+  margin-bottom: 8px;
+}

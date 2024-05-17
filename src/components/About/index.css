@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.about-container {
+  background-color: #ffffff;
+  height: 90vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about-icon {
+  width: 60%;
+  height: 60%;
+  margin-bottom: 8px;
+}
